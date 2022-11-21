@@ -1,0 +1,4 @@
+# Ignora archivos del sistema Mac 
+.DS_store
+
+# Acá agrego todas las extensiones que no quiero subir a mi proyecto

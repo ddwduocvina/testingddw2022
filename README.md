@@ -14,12 +14,15 @@ Wena guali
 aaaaaaaaaaaa
 Que pasa gente
 <p>Hola<p>
+<<<<<<< Updated upstream
 <p> El pepe<p>
 
 IL NENE DE ORO EL MEJOR CANTANTE DE CHILE 10000000000000 VISITAS
 
+los nft no valen nada
 
 otro cambio
+
 parrafo
 a
 

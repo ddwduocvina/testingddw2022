@@ -6,4 +6,4 @@
 Este es un repositorio de pruebas, donde los alumnos harán sus primeros commit.
 
 
-Wena soy el guali y vengo a editar
+Wena soy el guali y vengo a editarr

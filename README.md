@@ -18,7 +18,8 @@ Que pasa gente
 <p> El pepe<p>
 
 IL NENE DE ORO EL MEJOR CANTANTE DE CHILE 10000000000000 VISITAS
-=======
-wtf
-amigooooo es el ultimo mundial de mesi
->>>>>>> Stashed changes
+
+
+
+otro cambio
+830903a76c7cbf5cd2f735c1da03169d3100b3d3

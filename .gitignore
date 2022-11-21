@@ -1,4 +1,8 @@
 # Ignora archivos del sistema Mac 
 .DS_store
 
+<<<<<<< Updated upstream
 # Acá agrego todas las extensiones que no quiero subir a mi proyecto
+=======
+# Ignora todo lo que no quiero en mi proyecto
+>>>>>>> Stashed changes

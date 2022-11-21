@@ -22,4 +22,7 @@ IL NENE DE ORO EL MEJOR CANTANTE DE CHILE 10000000000000 VISITAS
 los nft no valen nada
 
 otro cambio
-830903a76c7cbf5cd2f735c1da03169d3100b3d3
+
+parrafo
+a
+
